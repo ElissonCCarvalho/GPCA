@@ -1,0 +1,7 @@
+hist/
+database/
+Database/
+segmentation/
+results/
+dataset/
+*.csv
